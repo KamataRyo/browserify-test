@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "build": "browserify index.js > result.js"
+  },
+  "devDependencies": {
+    "browserify": "^14.1.0"
+  }
+}
